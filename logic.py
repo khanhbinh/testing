@@ -24,17 +24,6 @@ def listmax(l):
         #    lmax = i
         #return lmax
       
-#mylist = [2, 2, 6]
-#for x in mylist:
-#    print (x)
-
-#print (listmax(mylist))
-
-#print (__name__)
-
-#if __name__="__name__":
-#    print (listmax(mylist))
-
 
         
             
