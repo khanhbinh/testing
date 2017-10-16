@@ -20,12 +20,10 @@ def listmax(l):
         if i > lmax:
             lmax = i
         return lmax
-        #if i > lmax:
-        #    lmax = i
-        #return lmax
-      
 
-        
+if __main__="__main__":
+    import sys
+    print (sys.argv)
             
 
 
