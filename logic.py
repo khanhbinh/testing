@@ -26,3 +26,7 @@ if __name__ == "__main__":
         myList.append(int(arg))
     print(myList)
     print(listmax(myList))
+
+            
+
+
